@@ -1,0 +1,24 @@
+# Manipulação de dados
+pandas
+numpy
+
+# Visualização
+matplotlib
+seaborn
+
+# Modelagem
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Explicabilidade
+shap
+
+# Salvamento de modelos
+joblib
+
+# Interface interativa (opcional para simulações futuras)
+streamlit
+
+# Garantir compatibilidade
+openpyxl
