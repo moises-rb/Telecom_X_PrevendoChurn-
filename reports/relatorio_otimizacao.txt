@@ -1,0 +1,17 @@
+Relatorio do Modelo Final Otimizado
+-----------------------------------
+Melhor Threshold (F1-Score): 0.3500
+
+Matriz de Confusao:
+[[1082  467]
+ [ 106  455]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.91      0.70      0.79      1549
+           1       0.49      0.81      0.61       561
+
+    accuracy                           0.73      2110
+   macro avg       0.70      0.75      0.70      2110
+weighted avg       0.80      0.73      0.74      2110
